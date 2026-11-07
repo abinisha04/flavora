@@ -26,10 +26,6 @@ export const metadata = {
     "chicken dishes",
     "seafood dishes",
     "crispy chicken roll",
-    "roasted chicken",
-    "cheese shrimp roll",
-    "baked crab cheese",
-    "crispy squid",
     "restaurant table booking",
     "dining experience",
   ],
@@ -39,14 +35,14 @@ export const metadata = {
     follow: true,
   },
 
-  icons: {
-    icon: "/icon.png",
-  },
+  // icons: {
+  //   icon: "/icon.png",
+  // },
 
   openGraph: {
     title: "Flavora | Modern Casual Dining Restaurant & Cafe",
     description:
-      "Discover delicious food, chef special dishes, chicken and seafood options at Flavora.",
+      "Discover Flavora, a modern casual dining restaurant and café featuring delicious chicken and seafood dishes, chef special meals, fresh flavours, and a welcoming dining experience.",
     type: "website",
   },
 };
