@@ -117,9 +117,9 @@ export default function Hero() {
             style={{ y: firstContentY }}
           >
             <div className="text-center text-white">
-              <h1 className="text-6xl tracking-[0.2em] drop-shadow-lg">
+              <h2 className="text-6xl tracking-[0.2em] drop-shadow-lg">
                 FRESH & DELICIOUS
-              </h1>
+              </h2>
               <p className="mt-5 text-xl ">
                 Flavora – Modern Casual Dining Restaurant
               </p>
@@ -150,9 +150,9 @@ export default function Hero() {
         <div className="absolute flex inset-0 ">
           <div className="w-1/2 h-full inset-0">
             <div className="absolute h-full w-120 inset-0 bg-black/90  left-50">
-              <h1 className="text-white text-center mt-15 tracking-[0.2em] text-2xl">
+              <h2 className="text-white text-center mt-15 tracking-[0.2em] text-2xl">
                 BOOK A TABLE
-              </h1>
+              </h2>
               <div className="mx-auto mt-6 h-[2px] w-16 bg-amber-500"></div>
               <div className="mt-12">
                 <div className="grid grid-cols-3 gap-6 px-10">
@@ -204,9 +204,9 @@ export default function Hero() {
           </div>
           <div className="w-1/2 h-full">
             <div className="px-20 py-20">
-              <h1 className="text-2xl tracking-[0.2em] text-white">
+              <h2 className="text-2xl tracking-[0.2em] text-white">
                 WELCOME TO FLAVORA
-              </h1>
+              </h2>
               <h4 className="mt-3 text-xl italic text-amber-600/90 tracking-wide">
                 The Art of Cookings
               </h4>
@@ -236,9 +236,9 @@ export default function Hero() {
             style={{ y: thirdContentY }}
           >
             <div className="text-center">
-              <h1 className="text-white text-4xl font-semibold tracking-[0.2em]">
+              <h2 className="text-white text-4xl font-semibold tracking-[0.2em]">
                 TODAY'S SPECIAL
-              </h1>
+              </h2>
               <h4 className="text-amber-600/90 italic text-2xl ">
                 Fresh and Delicious
               </h4>
@@ -335,9 +335,9 @@ export default function Hero() {
         <div className="bg-[#17171b] flow-root">
           {/* menu */}
           <div className="flex flex-col items-center py-20">
-            <h1 className="text-white font-semibold tracking-wide text-2xl">
+            <h2 className="text-white font-semibold tracking-wide text-2xl">
               Explore Our Restaurant Food Menu
-            </h1>
+            </h2>
             <p className="mt-2 text-xl italic text-amber-600/90 tracking-wide">
               Healthy & Tasty
             </p>
