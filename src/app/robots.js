@@ -6,6 +6,6 @@ export default function robots() {
       allow: "/",
     },
 
-    sitemap: "https://YOUR-VERCEL-DOMAIN.vercel.app/sitemap.xml",
+    sitemap: "https://flavora-five.vercel.app//sitemap.xml",
   };
 }
